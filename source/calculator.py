@@ -40,5 +40,8 @@ elif operation == "sub" :
 elif operation  == "div" :
     print(div(num1, num2))
 
-else : 
+elif operation == "mult" :
     print(mult(num1, num2))
+    
+else:
+    print (" Your request is unacceptable .")
