@@ -9,11 +9,14 @@
 def add(num1, num2):
     return num1 + num2
 # Subtraction function TODO
-
+def sub(num1, num2):
+    return num1 - num2 
 # Division function TODO
-
+def div(num1, num2):
+    return num1 / num2
 # Multiplication function TODO
-
+def mult(num1, num2):
+    return num1 * num2
 
 
 
